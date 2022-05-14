@@ -29,6 +29,7 @@ autoattack.py
 It is important to change the "iface"
 ![image](https://user-images.githubusercontent.com/86921341/168404622-a97a6039-e202-483e-828d-0be0aa9d9430.png)
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Sniffering
 
@@ -36,10 +37,14 @@ Sniffering
 
 ![image](https://user-images.githubusercontent.com/86921341/168404462-36d84064-fbc3-449c-8ef4-4d1261a953ab.png)
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 SPOOFING
 
 ![image](https://user-images.githubusercontent.com/86921341/168404701-9512538d-3ce8-482c-b2fc-47e524068d70.png)
 ![image](https://user-images.githubusercontent.com/86921341/168404703-2717aebf-3cbc-4152-953e-ed07b4771a5e.png)
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Redirect attack
 
@@ -48,8 +53,6 @@ Redirect attack
 ![image](https://user-images.githubusercontent.com/86921341/168404729-13977e83-eddb-4be3-be85-0d69c76081e2.png)
 ![image](https://user-images.githubusercontent.com/86921341/168404733-f05eb54a-3b33-4287-a837-10d68b01cc09.png)
 
-
-REDIRECT ATTACK
 On destination host docker:
 
 ![image](https://user-images.githubusercontent.com/86921341/168404752-c161929b-e40c-4c52-80ba-5ffa0919841f.png)
@@ -72,6 +75,8 @@ Destination:
 
 ![image](https://user-images.githubusercontent.com/86921341/168404788-20ae6e08-275f-4634-bada-395411167333.png)
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 TCP AUTO ATTACK
 
 Sniff victim(10.9.0.5) who connects to user1(10.9.0.6)
@@ -85,6 +90,7 @@ Reset the connection
 When victim tries to connect user1
 ![image](https://user-images.githubusercontent.com/86921341/168404815-f400e115-fdaf-43d8-844d-fa3b3dfdf233.png)
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Autoattack python program continues its surveillance
 
